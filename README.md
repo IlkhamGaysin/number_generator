@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'number_generator'
+gem 'number_generator', path: "https://github.com/IlkhamGaysin/number_generator"
 ```
 
 And then execute:

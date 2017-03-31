@@ -1,8 +1,9 @@
 require "bundler/setup"
-require "number_generator"
 require "byebug"
 require "ostruct"
 require "timecop"
+
+require "number_generator"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
