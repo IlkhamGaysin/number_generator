@@ -1,5 +1,7 @@
 # NumberGenerator
 
+[![Build Status](https://travis-ci.org/IlkhamGaysin/number_generator.svg?branch=master)](https://travis-ci.org/IlkhamGaysin/number_generator)
+
 Simple test task for [StackBuilders](https://www.stackbuilders.com)
 
 ## Installation
